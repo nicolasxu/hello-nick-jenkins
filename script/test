@@ -1,1 +1,2 @@
+echo user is $USER
 ./node_modules/.bin/mocha ./test/test.js
